@@ -1,0 +1,27 @@
+git github
+
+cls to clear
+cd  -- open a directory
+
+cd ../ and cd ../../ go back to prev directory
+or also use cd.. works the same
+
+
+
+dir --- display contents of current directory
+
+mkdir and_file--- make new directory / folder named and_file
+
+echo.> helllo.java  ===== creates a new java file (can also be used to create .txt)
+
+del hell.java  ====== only deletes files of .java or .txt or commonly used extensions
+
+rmdir  and_file ====delete and_file (rmdir  remove directory works only if the directory is empty .) 
+
+mkdir android_gyan\music makes new directory in android_gyan folder or also called as subdirectory
+
+mkdir android_gyan a\b\c ==makes a new dir a then a new dir b and then a new dr c (this doesnt work for echo)
+
+echo.>android_gyan\a\b\c\hello.txt (a b c should be made already  inside the android gyan)
+copy android gyan\a\b\c\hello.txt 
+	
